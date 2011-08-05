@@ -1,0 +1,10 @@
+Video Pixelator - Brandon Lucia - 2011
+
+This program captures video from any camera available and pixelates it into
+square regions.
+
+This program was originally built using XCode, with the OpenCV framework.  The
+source files can be added to a standard project and compiled.
+
+The included ".app" file will run the program (even though its name is
+different from the name of the project).
